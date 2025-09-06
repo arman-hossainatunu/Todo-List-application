@@ -44,21 +44,6 @@ Logic: Vanilla JavaScript (ES6)
 
 Storage: LocalStorage
 
-🚀 Getting Started
-1. Clone the repository
-git clone https://github.com/your-username/todo-list.git
-cd todo-list
-
-2. Open in Browser
-
-Simply open index.html in any modern browser.
-
-📂 Project Structure
-📦 todo-list
-├── index.html          # Home page (Add Tasks + View Cards)
-├── task-detail.html    # Task Details page (Card Grid Layout)
-├── README.md           # Project documentation
-
 📌 Future Improvements
 
 🔔 Notifications for upcoming tasks
@@ -75,6 +60,6 @@ Made with ❤️ by [Your Name]
 
 🌐 Portfolio: [your-portfolio-link]
 
-💼 LinkedIn: [your-linkedin-link]
+💼 LinkedIn: [(https://www.linkedin.com/in/armanhossainatunu/)]
 
 🐙 GitHub: [your-github-link]
